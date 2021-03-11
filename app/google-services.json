@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "316909102970",
+    "project_id": "fir-gtm-events",
+    "storage_bucket": "fir-gtm-events.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:316909102970:android:4263aa43e0fc23631b18c3",
+        "android_client_info": {
+          "package_name": "com.debug.firebasegtmevents"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "316909102970-cst7qciknk68o66vgg6dgkkuqc5gep1a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYlIRQmdElMDCe-1747MouKVP6ms0Z7XA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "316909102970-cst7qciknk68o66vgg6dgkkuqc5gep1a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
